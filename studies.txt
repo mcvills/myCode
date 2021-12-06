@@ -1,9 +1,9 @@
-Jose_Villamizar/Foal,Jose_Villamizar/Foaliage
-Jose_Villamizar/foal,Jose_Villamizar/foaliage
+Jose_Villamizar/Foal,Jose_Villamizar/Foal
+Jose_Villamizar/foal,Jose_Villamizar/foal
 Jose_Villamizar/test1,Jose_Villamizar/test10
 Jose_Villamizar/test2,Jose_Villamizar/test2
 Jose_Villamizar/test3,Jose_Villamizar/test3
 Jose_Villamizar/test4,Jose_Villamizar/test4
 Jose_Villamizar/test5,Jose_Villamizar/test5
 Jose_Villamizar/test6,Jose_Villamizar/test6
-Jose_Villamizar/GBAI,Jose_Villamizar/GBAI10
+Jose_Villamizar/GBAI,Jose_Villamizar/GBAI
