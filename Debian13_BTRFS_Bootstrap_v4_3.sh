@@ -890,7 +890,7 @@ NVIDIA_GPU_MODEL="${NVIDIA_GPU_MODEL}"
 CHROOT_SUCCESS_FILE="/root/bootstrap-chroot-noninteractive.done"
 
 chroot_error() {
-    local line="$1"
+    local line="\$1"
     echo "[ERROR] Non-interactive chroot failed at line \${line}"
     exit 1
 }
